@@ -1,0 +1,110 @@
+# Summary
+
+* [Introduction](README.md)
+* 税务登记规范
+ * 设立登记
+     * [单位纳税人设立登记](dj/dwnsrsldj.md)
+     * [个体经营纳税人设立登记](dj/gtjynsrsldj.md)
+     * [临时经营纳税人设立登记](dj/lsjynsrsldj.md)
+     * [扣缴税款登记](dj/kjskdj.md)
+  * 变更登记
+     * [变更登记（涉及税务登记证件内容变化）](dj/bgdj1.md)
+     * [变更登记（不涉及税务登记证件内容变化）](dj/bgdj2.md)
+     * [纳税人跨县（区）迁出](dj/nsrqc.md)
+     * [纳税人跨县（区）迁入](dj/nsrqr.md)
+  * 停复业登记
+     * [停业登记](dj/tydj.md)
+     * [复业登记](dj/fydj.md)
+  * 注销登记
+     * [注销登记（单位及查账征收个体工商户）](dj/zxdj1.md)
+     * [注销登记（定期定额个体工商户）](dj/zxdj2.md)
+  * [遗失补办]()
+     * [税务登记证件遗失补办](dj/swdjzjysbb.md)
+  * 报告备案登记
+     * [存款账户账号报告](dj/ckzhzhbg.md)
+     * [财务会计制度及核算软件备案报告](dj/cwkjzdjhsrjbabg.md)
+  * 报验登记
+     * [《外出经营活动税收管理证明》开具](dj/wcjyhdssglzmkj.md)
+     * [外出经营报验登记](dj/wcjybydj.md)
+     * [《外出经营活动税收管理证明》缴销](dj/wcjyhdssglzmjx.md)
+ * [非正常户处理](dj/fzchjc.md)
+ * “三证合一、一照一码”事项
+     * [补充信息采集](dj/bcxxcj.md)
+     * [信息变更](dj/xxbg.md)
+     * [开具清税证明](dj/kjzsqm.md)
+ 
+* 税务认定规范
+
+ * 增值税一般纳税人资格认定
+     * [增值税一般纳税人资格登记](rd/zzsybnsrzgdj.md)
+     * [选择按小规模纳税人纳税](rd/xzaxgmnsrns.md)
+ * 征收方式认定
+     * [增值税一般纳税人选择简易办法计算缴纳增值税](rd/zzsybnsrxzjybfjsjnzzs.md)
+     * [对纳税人变更纳税定额的核准](rd/dnsrbgnsdedhz.md)
+ * 税收优惠资格备案
+     * [安置残疾人就业增值税即征即退资格备案](rd/azcjrjyzzsjzjtzgba.md)
+     * [软件企业增值税即征即退资格备案](rd/rjqyzzsjzjtzgba.md)
+     * [资源综合利用增值税即征即退资格备案](rd/zyzhlyzzsjzjtzgba.md)
+     * [黄金交易期货增值税即征即退资格备案](rd/hjjyqhzzsjzjtzgba.md)
+     * [飞机维修劳务增值税即征即退资格备案](rd/fjwxlwzzsjzjtzgba.md)
+     * [大型水电企业增值税即征即退资格备案](rd/dxsdqyzzsjzjtzgba.md)
+     * [光伏发电增值税即征即退资格备案](rd/gffdzzsjzjtzgba.md)
+     * [管道运输服务增值税即征即退资格备案](rd/gdysfwzzsjzjtzgba.md)
+     * [部分地区国内货物运输服务、仓储服务和装卸搬运服务增值税即征即退资格备案](rd/bfdqgnhwysfwccfwhzxbyfwzzsjzjtzgba.md)
+     * [有形动产融资租赁服务增值税即征即退资格备案](rd/yxdcrzzlfwzzsjzjtzgba.md)
+     * [生产销售铂金增值税即征即退资格备案](rd/csxsbjzzsjzjtzgba.md)
+ * 出口退（免）税资格认定
+     * [出口退（免）税资格认定](rd/cktmszgrd.md)
+     * [集团公司具有免抵退税资格成员企业备案](rd/jtgsjymdtszgcyqyba.md)
+ * 其他事项认定
+     * [汇总缴纳消费税审批](rd/hzjnxfssp.md)
+     * [汇总缴纳增值税审批](rd/hzjnzzssp.md)
+     * [境外注册中资控股企业居民身份认定](rd/jwzczzkgqyjmsfrd.md)
+     * [境外注册中资控股居民企业主管税务机关的变更](rd/jwzczzkgjmqyzgswjgdbg.md)
+     * [非居民合同项目备案](rd/fjmhtxmba.md)
+     * [成本分摊协议报告](rd/cbftxybg.md)
+     * [中国居民（国民）申请启动税务相互协商程序](rd/zgjmsqqdswxhxscx.md )
+     * [预约定价安排续签](rd/yydjapxq.md)
+     * [非居民企业选择由其主要机构场所汇总缴纳企业所得税的审批](rd/fjmqyxzyqzyjgcshzjnqysdsdsp.md)
+     * [非居民企业间接转让财产事项报告](rd/fjmqyjjzrccsxbg.md)
+     * [非居民企业股权转让适用特殊性税务处理的备案](rd/fjmqygqzrsytsxswcldba.md)
+
+* [发票办理规范](fpbl/SUMMARY.md)
+
+ * 发票领用
+     * [增值税发票核定](fpbl/zzsfphd.md)
+     * [增值税专用发票（增值税税控系统）最高开票限额审批](fpbl/zzszyfpzgkpxe.md)
+     * [普通发票核定](fpbl/ptfphd.md)
+     * [印有本单位名称发票核定](fpbl/yybdwmcfp.md)
+     * [申请使用经营地发票](fpbl/sqsyjydfp.md)
+     * [增值税发票核定调整](fpbl/zzsfphdtz.md)
+     * [普通发票核定调整](fpbl/ptfphdtz.md)
+     * [增值税税控系统专用设备初始发行](fpbl/sksbcsfx.md)
+     * [增值税税控系统专用设备变更发行](fpbl/sksbbgfx.md)
+     * [增值税税控系统专用设备注销发行](fpbl/sksbzxfx.md)
+     * [发票发放](fpbl/fpff.md)
+     * [发票退回](fpbl/fpth.md)
+ * 发票开具
+     * [专用发票代开](fpbl/zyfpdk.md)
+     * [普通发票代开](fpbl/ptfpdk.md)
+     * [代开普通发票作废](fpbl/dkptfpzf.md)
+     * [红字增值税专用发票开具申请](fpbl/hzzzszyfp.md)
+     * [红字货物运输业增值税专用发票开具申请](fpbl/hzhwysyzyfp.md)
+ *  发票验旧
+     * [发票验旧](fpbl/fpyj.md)
+     * [增值税专用发票存根联数据采集](fpbl/zyfpcglsjcj.md)
+     * [发票认证](fpbl/fprz.md)
+     * [未按期申报增值税扣税凭证继续抵扣审批](fpbl/waqsbpzjxdk.md)
+     * [逾期增值税扣税凭证继续抵扣审批](fpbl/yqkspzjxdk.md)
+     * [海关完税凭证数据采集](fpbl/hgwspzcj.md)
+ * [发票缴销](fpbl/fpjx.md)
+ * 发票相关服务
+     * [增值税发票挂失、损毁报备](fpbl/zzsfpgs.md)
+     * [普通发票挂失、损毁报备](fpbl/ptfpgs.md)
+     * [发票真伪鉴别](fpbl/fpzwjb.md)
+
+* [申报纳税规范](sbns/SUMMARY.md)
+* [优惠办理规范](yhbl/SUMMARY.md)
+* [证明办理规范](zmbl/SUMMARY.md)
+* [营改增专区](ygz.md)
+
